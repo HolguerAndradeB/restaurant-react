@@ -1,0 +1,131 @@
+/* INICIO ESTILOS SLIDER */
+.carousel-properties {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+}
+.container-logo {
+    position: absolute;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    top: 100px;
+}
+.img-properties {
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+}
+.img-logo {
+    height: 350px;
+    width: 400px;
+}
+.title-slider {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+.contenedor-slider {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.342);
+}
+.subtitle-slider {
+    font-size: 20px;
+    color: white;
+    font-weight: 500;
+}
+/* FIN ESTILOS SLIDER */
+
+/* INICIO ESTILOS INFORMACIÓN */
+.container-propuesta {
+    text-align: center;
+    background-image: url(../img/informacion.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.title-propuesta {
+    padding-top: 40px;
+    padding-bottom: 60px;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+.text-propuesta {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+.carousel-recomendados {
+    margin: 0;
+    padding: 0;
+}
+.img-recomendaciones {
+    border-radius: 5%;
+}
+.img-menu {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 70%;
+    height: 670px;
+}
+.secciones-inicio {
+    margin-bottom: 10px;
+}
+.container-organizacion {
+    background-image: url(../img/eventos.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.img-organizacion {
+    width: 120px;
+    height: 120px;
+    display: block;
+    margin: auto;
+}
+.title-organizamos {
+    padding-top: 30px;
+    padding-bottom: 60px;
+    font-size: 45px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+.title-eventos {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+.text-eventos {
+    font-size: 15px;
+    color: white;
+    text-align: center;
+}
+/* FIN ESTILOS INFORMACIÓN */
+
+/* INICIO ESTILOS TESTIMONIOS */
+.carousel-testimonios {
+    margin: 0;
+    padding: 10px;
+    width: 100%;
+}
+.text-testimonios {
+    font-size: 16px;
+    text-align: center;
+    color: black;
+    font-weight: 500;
+}
+.img-testimonio {
+    border-radius: 100%;
+    width: 300px;
+    height: 300px;
+}
+/* FIN ESTILOS TESTIMONIOS */

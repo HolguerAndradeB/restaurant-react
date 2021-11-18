@@ -1,0 +1,52 @@
+{
+   "listaProductos":[
+       {
+           "id":"1",
+           "titulo": "Producto 1",
+           "imagen": "img/productos/p1.png",
+           "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci quidem quos culpa reprehenderit. Odit modi culpa veniam.",
+           "precio": "25.000",
+           "stock": "2"
+       },
+       {
+           "id":"2",
+            "titulo": "Producto 2",
+            "imagen": "img/productos/p2.png",
+            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci quidem quos culpa reprehenderit. Odit modi culpa veniam.",
+            "precio": "42.000",
+            "stock": "31"
+        },
+        {
+            "id":"3",
+            "titulo": "Producto 3",
+            "imagen": "img/productos/p3.png",
+            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci quidem quos culpa reprehenderit. Odit modi culpa veniam.",
+            "precio": "36.000",
+            "stock": "8"
+        },
+        {
+            "id":"4",
+            "titulo": "Producto 4",
+            "imagen": "img/productos/p4.png",
+            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci quidem quos culpa reprehenderit. Odit modi culpa veniam.",
+            "precio": "78.000",
+            "stock": "5"
+        },
+        {
+            "id":"5",
+            "titulo": "Producto 5",
+            "imagen": "img/productos/p5.png",
+            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci quidem quos culpa reprehenderit. Odit modi culpa veniam.",
+            "precio": "61.000",
+            "stock": "15"
+        },
+        {
+            "id":"6",
+            "titulo": "Producto 6",
+            "imagen": "img/productos/p6.png",
+            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci quidem quos culpa reprehenderit. Odit modi culpa veniam.",
+            "precio": "85.000",
+            "stock": "12"
+        }
+   ] 
+}

@@ -1,38 +1,151 @@
-.App {
+* {
+  font-family: 'Poppins', sans-serif;
+}
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #fafafa;
+}
+.body-container {
+  padding-top: 70px;
+}
+.wrapper {
+  width: 100%;
+}
+.text-logo{
+  padding-left: 20px;
+  font-size: 25px !important;
+  font-weight: bold;
+}
+.icon-toggle {
+  margin-right: 15px;
+}
+.center-icon {
   text-align: center;
+  align-items: center;
+  color: red;
+}
+.btn-delete {
+  cursor: pointer;
+}
+.text-products {
+  text-align: justify;
+}
+.icon-carrito {
+  margin-left: 10px;
+  margin-top: 1px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.container {
+  /* width: 1140px; */
+  /* margin: 0 auto; */
+  /* height: 71.7vh; */
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.country-container {
+  display: flex;
+  flex-direction: center;
+}
+.country {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  width: 300px;
+  padding: 10px;
+  line-height: 27px;
+}
+
+
+
+.bg-card-servicios {
+  background-color: rgb(238, 222, 202) !important;
+}
+.bg-card-productos {
+  background-color: #dceedc !important;
+}
+.marginInputs {
+  margin-bottom: 10px;
+}
+
+/* INICIO ESTILOS DEL NOSOTROS */
+.container-nosotros {
+  background-color: #ffe4c4e0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  /* height: 60vh; */
+}
+.container-img {
+  /* position: absolute; */
+  width: 100%;
+  display: flex;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+}
+.img-historia {
+  width: 100%;
+  height: 450px;
+}
+.text-historia {
+  text-align: justify;
+}
+.contenedor-persona {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+.img-persona {
+  border-radius: 100%;
+  width: 150px;
+  height: 150px;
+}
+.nombre-persona {
+  font-size: 24px;
+  text-align: center;
+}
+.cargo-persona {
+  font-size: 16px;
+  text-align: center;
+  margin-top: -20px;
+}
+/* FIN ESTILOS DEL NOSOTROS */
+
+/* INICIO ESTILOS DEL FOOTER */
+.footer {
+  bottom: 0;
+  background-color: #310101;
   color: white;
+  height: auto;
+  width: 100%;
+  padding-top: 15px;
+  font-family: 'Poppins', sans-serif;
 }
-
-.App-link {
-  color: #61dafb;
+.marginTop {
+  margin-top: 20px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.marginBottom {
+  margin-bottom: 20px;
 }
+.row {
+  margin: 0 !important;
+}
+.imgFooter {
+  margin:auto;
+  display: flex;
+  align-items: center;
+  width: 250px;
+}
+.linksFooter {
+  margin: auto;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+}
+.mapFooter {
+  margin:auto;
+  display: flex;
+  align-items: center;
+  width: 90%;
+  height: 190px;
+}
+.div-ubicacion {
+  text-align: center;
+}
+/* FIN ESTILOS DEL FOOTER */

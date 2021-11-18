@@ -1,0 +1,34 @@
+{
+    "listaServicios":[
+        {
+            "titulo": "Celebración de cumpleaños",
+            "imagen": "img/cumple.jpg",
+            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci quidem quos culpa reprehenderit. Odit modi culpa veniam. Odit numquam voluptatum adipisci ad ab sint? Quasi similique voluptatem doloribus accusamus explicabo!."
+        },
+        {
+            "titulo": "Aniversarios",
+            "imagen": "img/aniversario.jpg",
+            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci quidem quos culpa reprehenderit. Odit modi culpa veniam. Odit numquam voluptatum adipisci ad ab sint? Quasi similique voluptatem doloribus accusamus explicabo!."
+        },
+        {
+            "titulo": "Fiestas infantiles",
+            "imagen": "img/infantiles.jpg",
+            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci quidem quos culpa reprehenderit. Odit modi culpa veniam. Odit numquam voluptatum adipisci ad ab sint? Quasi similique voluptatem doloribus accusamus explicabo!."
+        },
+        {
+            "titulo": "Declaraciones o propuestas",
+            "imagen": "img/propuesta.jpg",
+            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci quidem quos culpa reprehenderit. Odit modi culpa veniam. Odit numquam voluptatum adipisci ad ab sint? Quasi similique voluptatem doloribus accusamus explicabo!."
+        },
+        {
+            "titulo": "Despedidas",
+            "imagen": "img/despedida.jpg",
+            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci quidem quos culpa reprehenderit. Odit modi culpa veniam. Odit numquam voluptatum adipisci ad ab sint? Quasi similique voluptatem doloribus accusamus explicabo!."
+        },
+        {
+            "titulo": "Cena con amigos",
+            "imagen": "img/amigos.jpg",
+            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci quidem quos culpa reprehenderit. Odit modi culpa veniam. Odit numquam voluptatum adipisci ad ab sint? Quasi similique voluptatem doloribus accusamus explicabo!."
+        }
+    ] 
+ }
